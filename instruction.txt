@@ -1,0 +1,28 @@
+instruction
+
+I send you an ISO requirement I want to check. You will:
+
+- check in HackMeBank policy do they have troubles with realizing this policy
+- if no:
+	- your comment why
+- if yes:
+	- define a risk: it's name and description
+	- define Affected assets, select from Majetok file
+	- define cost of Affected assets from Majetok file. If it is blank, you can estimate the cost in euros based on your thoughts
+	- define a thread, select from Hrozby file
+	- define vulneability, select from Zranitelnosti file
+	- using Metodika define:
+		- probability risk related case will happen
+		- consequence if it will happen
+		- risk severity level (look in a table)
+	- define what can we reduce or cut of a risk (shortly)
+	- using Metodika define:
+		- probability risk related case will happen after your proposal realised
+		- consequence if it will happen after your proposal realised
+		- risk severity level fter your proposal realised (look in a table)
+	- your comment on that case
+	
+Give me a response in CSV format like the example below in Slovak. Keep it short, like an example.
+
+ID,Dotknuté aktíva,Hodnota aktíva,Názov rizika,Opis rizika,Popis hrozby,Popis zraniteľnosti,Pravdepodobnosť (pred mitigáciou),Následok (pred mitigáciou),Úroveň závažnosti rizika (pred mitigáciou),Navrhované opatrenia,Pravdepodobnosť (po mitigácii),Následok (po mitigácii),Úroveň závažnosti rizika (po mitigácii)
+1,Dochádzkový systém,10000,Nepodporovaný OS,Servery sú prevádzkované na nepodporovanom OS,Krádež digitálnej identity alebo prihlasovacích údajov,Známe chyby v softvéri,Vysoká,Stredný,Vysoké,Aktualizácia OS,Veľmi nízka,Zanedbateľný,Veľmi nízke

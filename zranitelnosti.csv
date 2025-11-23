@@ -1,0 +1,85 @@
+Category,Vulnerability,Example
+Hardvér,Nedostatočná údržba/chybná inštalácia úložných médií,Narušenie udržateľnosti informačného systému
+Hardvér,Nedostatok pravidelného plánu výmeny,Zničenie zariadenia alebo médií
+Hardvér,Citlivosť na vlhkosť, prach, znečistenie,Prach, korózia, zamŕzanie
+Hardvér,Citlivosť na elektromagnetické žiarenie,Elektromagnetické žiarenie
+Hardvér,Nedostatok efektívnej kontroly zmien konfigurácie,Chyba pri používaní
+Hardvér,Citlivosť na výkyvy napätia,Strata dodávky energie
+Hardvér,Citlivosť na teplotné výkyvy,Meteorologický jav
+Hardvér,Nechránené úložisko,Krádež médií alebo dokumentov
+Hardvér,Nedbalosť pri likvidácii,Krádež médií alebo dokumentov
+Hardvér,Nekontrolované kopírovanie,Krádež médií alebo dokumentov
+Softvér,Žiadne alebo nedostatočné testovanie softvéru,Zneužitie práv
+Softvér,Známe chyby v softvéri,Zneužitie práv
+Softvér,Žiadne „odhlásenie“ pri opustení pracoviska,Zneužitie práv
+Softvér,Likvidácia alebo opätovné používanie úložných médií bez riadneho vymazania,Zneužitie práv
+Softvér,Nedostatok audítorského záznamu,Zneužitie práv
+Softvér,Nesprávne priradenie prístupových práv,Zneužitie práv
+Softvér,Široko distribuovaný softvér,Poškodenie údajov
+Softvér,Použitie aplikácií na nesprávnych údajoch z hľadiska času,Poškodenie údajov
+Softvér,Komplikované užívateľské rozhranie,Chyba pri používaní
+Softvér,Nedostatok dokumentácie,Chyba pri používaní
+Softvér,Nesprávne nastavenie parametrov,Chyba pri používaní
+Softvér,Nesprávne dátumy,Chyba pri používaní
+Softvér,Nedostatok identifikačných a autentifikačných mechanizmov (napr. autentifikácia používateľov),Falšovanie práv
+Softvér,Nechránené tabuľky hesiel,Falšovanie práv
+Softvér,Slabá správa hesiel,Falšovanie práv
+Softvér,Nepotrebné služby aktivované,Neoprávnené spracovanie údajov
+Softvér,Nedospelý alebo nový softvér,Zlyhanie softvéru
+Softvér,Nejasné alebo neúplné špecifikácie pre vývojárov,Zlyhanie softvéru
+Softvér,Nedostatok efektívnej kontroly zmien,Zlyhanie softvéru
+Softvér,Nekontrolované sťahovanie a používanie softvéru,Manipulácia so softvérom
+Softvér,Nedostatok záložných kópií,Manipulácia so softvérom
+Sieť,Nedostatočná fyzická ochrana budovy, dverí a okien,Krádež médií alebo dokumentov
+Sieť,Nedostatočné vypracovanie manažérskych správ,Neoprávnené používanie zariadenia
+Sieť,Nedostatok dôkazu o zaslaní alebo prijatí správy,Odoprenie akcií
+Sieť,Nezabezpečené komunikačné linky,Odpočúvanie
+Sieť,Nezabezpečená citlivá komunikácia,Odpočúvanie
+Sieť,Zlá spoločná kabeláž,Zlyhanie telekomunikačného zariadenia
+Sieť,Jediné miesto zlyhania,Zlyhanie telekomunikačného zariadenia
+Sieť,Slabá sieťová architektúra,Vzdialené špehovanie
+Sieť,Prenos hesiel v nezašifrovanej podobe,Vzdialené špehovanie
+Sieť,Nedostatočné riadenie siete,Presýtenie informačného systému
+Sieť,Nezabezpečené verejné sieťové pripojenia,Neoprávnené používanie zariadenia
+Personál,Nedostatok personálu,Narušenie dostupnosti personálu
+Personál,Nedostatočné náborové postupy,Zničenie zariadenia alebo médií
+Personál,Nedostatočné školenie o bezpečnosti,Chyba pri používaní
+Personál,Nesprávne používanie softvéru a hardvéru,Chyba pri používaní
+Personál,Nedostatok povedomia o bezpečnosti,Chyba pri používaní
+Personál,Nedostatok monitorovacích mechanizmov,Neoprávnené spracovanie údajov
+Personál,Nezabezpečená práca externých alebo upratovacích pracovníkov,Krádež médií alebo dokumentov
+Personál,Nedostatok pravidiel na správne používanie komunikačných médií a zasielania správ,Neoprávnené používanie zariadenia
+Sídlo,Nedostatočné alebo neopatrné používanie fyzického prístupu k budovám a miestnostiam,Zničenie zariadenia alebo médií
+Sídlo,Lokalita v oblasti náchylnej na povodne,Povodeň
+Sídlo,Nestabilná sieť elektrickej energie,Strata dodávky energie
+Sídlo,Nedostatok fyzickej ochrany budovy, dverí a okien,Krádež zariadenia
+Organizácia,Nedostatok formálneho postupu pre registráciu a zrušenie registrácie používateľov,Zneužitie práv
+Organizácia,Nedostatok formálneho procesu na preskúmanie prístupových práv (dohľad),Zneužitie práv
+Organizácia,Nedostatok alebo nedostatočné ustanovenia (týkajúce sa bezpečnosti) v zmluvách so zákazníkmi,Zneužitie práv
+Organizácia,Nedostatok postupu monitorovania zariadení na spracovanie informácií,Zneužitie práv
+Organizácia,Nedostatok pravidelných auditov,Zneužitie práv
+Organizácia,Nedostatok postupov identifikácie a hodnotenia rizík,Zneužitie práv
+Organizácia,Nedostatok záznamov o chybách v administrátorských a operátorských logoch,Zneužitie práv
+Organizácia,Nedostatočná odozva na údržbu služieb,Narušenie udržateľnosti informačného systému
+Organizácia,Nedostatok SLA (Service Level Agreement),Narušenie udržateľnosti informačného systému
+Organizácia,Nedostatok kontroly zmien,Narušenie udržateľnosti informačného systému
+Organizácia,Nedostatok procedúr pre kontrolu ISMS dokumentácie,Poškodenie údajov
+Organizácia,Nedostatok formálnych postupov pre monitorovanie ISMS záznamov,Poškodenie údajov
+Organizácia,Nedostatok formálnych procesov pre autorizáciu verejne dostupných informácií,Údaje z nedôveryhodných zdrojov
+Organizácia,Nedostatok zodpovedností za informačnú bezpečnosť,Odoprenie akcií
+Organizácia,Nedostatok plánov kontinuity,Zlyhanie zariadenia
+Organizácia,Nedostatok politiky pre používanie e-mailov,Chyba pri používaní
+Organizácia,Nedostatok postupov pre zavádzanie softvéru do prevádzkových systémov,Chyba pri používaní
+Organizácia,Nedostatok záznamov v administrátorských a operátorských logoch,Chyba pri používaní
+Organizácia,Nedostatok postupov pre prácu s utajovanými informáciami,Chyba pri používaní
+Organizácia,Nedostatok zodpovedností za informačnú bezpečnosť v pracovných náplniach,Chyba pri používaní
+Organizácia,Nedostatočné ustanovenia (o bezpečnosti) v zmluvách so zamestnancami,Neoprávnené spracovanie údajov
+Organizácia,Nedostatok definovaných disciplinárnych postupov v prípade incidentu informačnej bezpečnosti,Krádež zariadenia
+Organizácia,Nedostatok politiky pre používanie mobilných zariadení,Krádež zariadenia
+Organizácia,Nedostatok kontroly nad majetkom mimo priestorov spoločnosti,Krádež zariadenia
+Organizácia,Nedostatok politiky „čistý stôl a čistá obrazovka“,Krádež médií alebo dokumentov
+Organizácia,Nedostatok autorizácie pre informačné spracovacie zariadenia,Krádež médií alebo dokumentov
+Organizácia,Nedostatok stanovených mechanizmov monitorovania bezpečnostných incidentov,Krádež médií alebo dokumentov
+Organizácia,Nedostatok pravidelných manažérskych prehliadok,Neoprávnené používanie zariadenia
+Organizácia,Nedostatok postupov na hlásenie bezpečnostných nedostatkov,Neoprávnené používanie zariadenia
+Organizácia,Nedostatok postupov na zabezpečenie zhody s právami duševného vlastníctva,Používanie falšovaného alebo kopírovaného softvéru

@@ -1,0 +1,66 @@
+Type,Description,Name
+Hardvér,Fyzické prvky podporujúce procesy.,Prenosné počítačové zariadenie
+Hardvér,Fyzické prvky podporujúce procesy.,Notebook
+Hardvér,Fyzické prvky podporujúce procesy.,PDA
+Hardvér,Fyzické prvky podporujúce procesy.,Pevné zariadenie
+Hardvér,Fyzické prvky podporujúce procesy.,Server
+Hardvér,Fyzické prvky podporujúce procesy.,Počítač používaný ako pracovná stanica
+Hardvér,Fyzické prvky podporujúce procesy.,Periférne zariadenia
+Hardvér,Fyzické prvky podporujúce procesy.,Tlačiareň
+Hardvér,Fyzické prvky podporujúce procesy.,Prenosný disk
+Hardvér,Fyzické prvky podporujúce procesy.,Dátové médium
+Hardvér,Fyzické prvky podporujúce procesy.,Disketa
+Hardvér,Fyzické prvky podporujúce procesy.,CD ROM
+Hardvér,Fyzické prvky podporujúce procesy.,Pamäťový kľúč
+Hardvér,Fyzické prvky podporujúce procesy.,Páska
+Softvér,Programy podporujúce prevádzku dátového spracovania.,Operačný systém
+Softvér,Programy podporujúce prevádzku dátového spracovania.,Servisný/údržbový softvér
+Softvér,Programy podporujúce prevádzku dátového spracovania.,Balíkový softvér
+Softvér,Programy podporujúce prevádzku dátového spracovania.,Softvér na správu databáz
+Softvér,Programy podporujúce prevádzku dátového spracovania.,Elektronická pošta
+Softvér,Programy podporujúce prevádzku dátového spracovania.,Softvér pre správu adresárov
+Softvér,Programy podporujúce prevádzku dátového spracovania.,Štandardná podniková aplikácia
+Softvér,Programy podporujúce prevádzku dátového spracovania.,Špecifická podniková aplikácia
+Softvér,Programy podporujúce prevádzku dátového spracovania.,Účetný softvér
+Softvér,Programy podporujúce prevádzku dátového spracovania.,Aplikácia na monitorovanie
+Softvér,Programy podporujúce prevádzku dátového spracovania.,Dochádzkový systém
+Sieť,Telekomunikačné zariadenia používané na prepojenie viacerých fyzicky vzdialených počítačov alebo prvkov informačného systému.,Verejná telefónna sieť (PSTN)
+Sieť,Telekomunikačné zariadenia používané na prepojenie viacerých fyzicky vzdialených počítačov alebo prvkov informačného systému.,Ethernet
+Sieť,Telekomunikačné zariadenia používané na prepojenie viacerých fyzicky vzdialených počítačov alebo prvkov informačného systému.,GigabitEthernet
+Sieť,Telekomunikačné zariadenia používané na prepojenie viacerých fyzicky vzdialených počítačov alebo prvkov informačného systému.,ADSL
+Sieť,Telekomunikačné zariadenia používané na prepojenie viacerých fyzicky vzdialených počítačov alebo prvkov informačného systému.,Bezdrôtové protokoly (napr. WiFi 802.11)
+Sieť,Telekomunikačné zariadenia používané na prepojenie viacerých fyzicky vzdialených počítačov alebo prvkov informačného systému.,Relé a prepínače
+Sieť,Telekomunikačné zariadenia používané na prepojenie viacerých fyzicky vzdialených počítačov alebo prvkov informačného systému.,Bridge
+Sieť,Telekomunikačné zariadenia používané na prepojenie viacerých fyzicky vzdialených počítačov alebo prvkov informačného systému.,Router
+Sieť,Telekomunikačné zariadenia používané na prepojenie viacerých fyzicky vzdialených počítačov alebo prvkov informačného systému.,Hub
+Sieť,Telekomunikačné zariadenia používané na prepojenie viacerých fyzicky vzdialených počítačov alebo prvkov informačného systému.,Switch
+Personál,Skupiny ľudí zapojených do informačného systému.,Rozhodujúci činitelia
+Personál,Skupiny ľudí zapojených do informačného systému.,Vrcholový manažment
+Personál,Skupiny ľudí zapojených do informačného systému.,Používatelia
+Personál,Skupiny ľudí zapojených do informačného systému.,Personál HR
+Personál,Skupiny ľudí zapojených do informačného systému.,Finančný manažér
+Personál,Skupiny ľudí zapojených do informačného systému.,Prevádzkový/údržbový personál
+Personál,Skupiny ľudí zapojených do informačného systému.,Systémový administrátor
+Personál,Skupiny ľudí zapojených do informačného systému.,Vývojári aplikácií
+Miesto,Miesta, kde sa nachádza alebo je umiestnený systém a jeho fyzické prostriedky potrebné na prevádzku.,Miesto
+Miesto,Miesta, kde sa nachádza alebo je umiestnený systém a jeho fyzické prostriedky potrebné na prevádzku.,Vonkajšie prostredie
+Miesto,Miesta, kde sa nachádza alebo je umiestnený systém a jeho fyzické prostriedky potrebné na prevádzku.,Domovy zamestnancov
+Miesto,Miesta, kde sa nachádza alebo je umiestnený systém a jeho fyzické prostriedky potrebné na prevádzku.,Priestory
+Miesto,Miesta, kde sa nachádza alebo je umiestnený systém a jeho fyzické prostriedky potrebné na prevádzku.,Budovy
+Miesto,Miesta, kde sa nachádza alebo je umiestnený systém a jeho fyzické prostriedky potrebné na prevádzku.,Zóna
+Miesto,Miesta, kde sa nachádza alebo je umiestnený systém a jeho fyzické prostriedky potrebné na prevádzku.,Kancelárie
+Miesto,Miesta, kde sa nachádza alebo je umiestnený systém a jeho fyzické prostriedky potrebné na prevádzku.,Zabezpečená zóna
+Základné služby,Služby potrebné na prevádzku zariadení organizácie.,Telekomunikačné služby
+Základné služby,Služby potrebné na prevádzku zariadení organizácie.,Telefónna linka
+Základné služby,Služby potrebné na prevádzku zariadení organizácie.,Interné telefónne siete
+Základné služby,Služby potrebné na prevádzku zariadení organizácie.,Elektrická energia
+Základné služby,Služby potrebné na prevádzku zariadení organizácie.,Chladenie a čistenie vzduchu
+Základné služby,Služby potrebné na prevádzku zariadení organizácie.,Klimatizácia
+Organizácia,Organizačný rámec zahŕňajúci všetky personálne štruktúry pridelené úlohe a procedúry riadenia týchto štruktúr.,Orgány
+Organizácia,Organizačný rámec zahŕňajúci všetky personálne štruktúry pridelené úlohe a procedúry riadenia týchto štruktúr.,Vedenie organizácie
+Organizácia,Organizačný rámec zahŕňajúci všetky personálne štruktúry pridelené úlohe a procedúry riadenia týchto štruktúr.,Štruktúra organizácie
+Organizácia,Organizačný rámec zahŕňajúci všetky personálne štruktúry pridelené úlohe a procedúry riadenia týchto štruktúr.,HR
+Organizácia,Organizačný rámec zahŕňajúci všetky personálne štruktúry pridelené úlohe a procedúry riadenia týchto štruktúr.,IT
+Organizácia,Organizačný rámec zahŕňajúci všetky personálne štruktúry pridelené úlohe a procedúry riadenia týchto štruktúr.,Bezpečnostná služba
+Organizácia,Organizačný rámec zahŕňajúci všetky personálne štruktúry pridelené úlohe a procedúry riadenia týchto štruktúr.,Projektová organizácia
+Organizácia,Organizačný rámec zahŕňajúci všetky personálne štruktúry pridelené úlohe a procedúry riadenia týchto štruktúr.,Subdodávatelia/dodávatelia
